@@ -73,3 +73,5 @@ const signData = [
 		image: Capricorn
 	}
 ];
+
+export default signData;
